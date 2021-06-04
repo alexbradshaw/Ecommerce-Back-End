@@ -25,6 +25,8 @@ What did you learn?
 npm install
 ## Usage
 ![ecommerce_app.jpeg](assets/ecommerce_app.jpeg?raw=true)
+### Demo
+[<img src="https://img.youtube.com/vi/uMSvc0mH_ko/maxresdefault.jpg" width="90%" target="_blank">](https://www.youtube.com/watch?v=uMSvc0mH_ko)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing
